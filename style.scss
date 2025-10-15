@@ -20,6 +20,10 @@ main{
                         "aside footer";
     padding:15px 30px;
     gap:15px;
+
+    figure{
+        cursor:pointer;
+    }
                         
     .figure1{
         grid-area:aside;

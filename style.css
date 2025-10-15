@@ -20,6 +20,9 @@ main {
   padding: 15px 30px;
   gap: 15px;
 }
+main figure {
+  cursor: pointer;
+}
 main .figure1 {
   grid-area: aside;
   height: 100%;
